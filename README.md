@@ -1,12 +1,12 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khiêm+Speed!;" />
 </h1>
-
-<h3 align="center">🚀 Passionate Frontend Developer from Vietnam 🇻🇳</h3>
-
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" width="600" height="300"/>
-</div>
+<a href="https://github.com/Chey-san/"><img src="https://user-images.githubusercontent.com/97988840/156468495-58f662e6-959a-4121-87f7-8ea9cba47f03.gif"
+" alt="chitoge" border="0"></a>
+
+💫**Marin: A WhatsApp BOT🖤💖 WITH RICH✨ ANIME & NSFW🔞FEATURES BASED ON <a href="https://github.com/FantoX001/Miku-MD">MIKU</er></a></h1>**
+<h3 align="center">🚀 Passionate Frontend Developer from Vietnam 🇻🇳</h3>
 
 ---
   <h2>⭐ VIỆT NAM ⭐</h2>
@@ -124,6 +124,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" width="600" height="300"/>
+</div>
+---
 ## ⭐ Show Some Love
 
 <div align="center">
