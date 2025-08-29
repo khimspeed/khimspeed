@@ -21,7 +21,7 @@
 
 ---
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 
 <div align="center">
   
@@ -34,7 +34,7 @@
 
 ---
 
-## 💻 Tech Stack
+ 💻 Tech Stack
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+ 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khimspeed&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
@@ -76,7 +76,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+ 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khimspeed&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -84,7 +84,7 @@
 
 ---
 
-## 📈 Activity Graph
+ 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khimspeed&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
@@ -92,7 +92,7 @@
 
 ---
 
-## 💡 Random Dev Quote
+ 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
@@ -100,7 +100,7 @@
 
 ---
 
-## 🔝 Top Contributed Repositories
+🔝 Top Contributed Repositories
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=khimspeed&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
@@ -108,27 +108,25 @@
 
 ---
 
-## 🌟 Current Projects
+🌟 Current Projects
 
-- 🔭 Currently working on **Frontend Development Projects**
+- 🔭 Currently working on **Frontend Development Projects
 - 🌱 Learning **Advanced React & Modern JavaScript**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, React, JavaScript**
-- ⚡ Fun fact: **Code is poetry in motion! 🎨**
-
----
+- ⚡ Fun fact: **Code is poetry in motion! 🎨
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" width="600" height="300"/>
 </div>
+
 ---
-## ⭐ Show Some Love
+
+⭐ Show Some Love
 
 <div align="center">
   
-**If you like my work, consider giving it a ⭐!**
-
-![Visitor Count](https://profile-counter.glitch.me/khimspeed/count.svg)
+If you like my work, consider giving it a ⭐!
 
 </div>
 
