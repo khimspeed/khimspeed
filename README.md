@@ -28,7 +28,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/giakhiemuytins1tg)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/khimspeed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](phamgiakhiem1710206@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https:wư.gmail.com/phamgiakhiem1710206@gmail.com)
 
 </div>
 
